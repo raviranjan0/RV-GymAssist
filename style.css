@@ -1,0 +1,299 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(bg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.nav-bar {
+  height: 6rem;
+  width: 100%;
+  position: relative;
+  z-index: 20;
+}
+
+.logo {
+  height: 5rem;
+  width: 50%;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+}
+
+.logo img {
+  height: 60px;
+  border-radius: 50%;
+}
+
+.logo h1 {
+  margin-left: 2rem;
+}
+
+.right-nav {
+  display: flex;
+  justify-content: right;
+  margin-top: -3rem;
+  margin-right: 2rem;
+  color: white;
+}
+
+.right-nav img {
+  margin-top: -4rem;
+  margin-right: 2rem;
+}
+
+.select-box {
+  width: 20%;
+  height: 100px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  margin-right: 3rem;
+}
+
+.select-heading {
+  background-color: aliceblue;
+  height: 3rem;
+  padding: 15px;
+  font-size: 20px;
+  align-items: center;
+  width: 90%;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.arrow {
+  display: flex;
+  justify-content: right;
+  margin-top: 1.4rem;
+}
+
+.arrow img {
+  transition: all 0.3s;
+}
+
+.rotate {
+  transform: rotate(180deg);
+}
+.options {
+  background-color: rgba(240, 248, 255, 0.781);
+  backdrop-filter: blur(5px);
+  margin-top: 1rem;
+  margin-left: -0.7rem;
+  height: 350px;
+  width: 110%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  display: none;
+}
+
+.active-options {
+  display: flex;
+}
+
+.option {
+  border-radius: 15px;
+  padding: 10px;
+  transition: all 0.4s;
+}
+.option:hover {
+  background-color: aliceblue;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.main-title {
+  color: rgba(255, 255, 255, 0.616);
+  font-size: 5.1vw;
+  align-items: center;
+  position: relative;
+  top: 12%;
+  left: 35%;
+  padding: 20px;
+}
+
+.hero-title {
+  color: rgba(255, 255, 255, 0.519);
+  font-size: 5.1vw;
+  align-items: center;
+  position: relative;
+  top: 11%;
+  left: 9%;
+  padding: 10px;
+}
+
+main {
+  width: 100%;
+  height: calc(100vh - 10rem);
+  position: relative;
+}
+
+.main-section {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chat-box {
+  position: relative;
+  background-color: #ffffff87;
+  width: 30%;
+  height: 80%;
+  float: right;
+  top: 25%;
+  right: 5%;
+  bottom: 5%;
+  backdrop-filter: blur(5px);
+  border-radius: 1.3rem;
+  padding: 20px;
+  transform: translateX(1500px);
+  transition: all 0.5s;
+  z-index: 30;
+}
+
+.active-chat-box {
+  transform: translateX(0px);
+}
+
+.chat-container {
+  width: 100%;
+  height: 80%;
+  overflow: auto;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.chat-container::-webkit-scrollbar {
+  width: 0px;
+}
+
+.chat-image {
+  cursor: pointer;
+}
+
+.input-area {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.prompt {
+  width: 60%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+}
+
+.input-area button {
+  background-color: black;
+  padding: 8px;
+  border-radius: 50%;
+  border: none;
+}
+
+.user-chatbox {
+  width: 80%;
+  padding: 20px;
+  background-color: black;
+  border-radius: 50px 0px 50px 50px;
+  position: relative;
+  left: 90px;
+  color: white;
+}
+
+.ai-chatbox {
+  width: 80%;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.671);
+  border-radius: 0px 50px 50px 50px;
+  position: relative;
+  left: 0;
+  color: white;
+}
+
+.options a {
+  text-decoration: none;
+  color: black;
+}
+
+.svgs {
+  width: 60%;
+  height: 58%;
+  display: flex;
+  align-items: center;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  position: absolute;
+  left: 20%;
+  top: 15%;
+  gap: 1.4rem;
+  background-color: rgba(255, 255, 255, 0.669);
+  backdrop-filter: blur(5px);
+  border-radius: 1.3rem;
+}
+
+.svgs img {
+  width: 350px;
+}
+
+.svgs::-webkit-scrollbar {
+  width: 0px;
+}
+
+.virtual-assistant {
+  width: 120px;
+  position: relative;
+  margin-top: 10rem;
+  filter: drop-shadow(2px 2px 5px rgb(116, 116, 219));
+  cursor: pointer;
+}
+
+.speak-page {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.422);
+  backdrop-filter: blur(5px);
+  position: absolute;
+  top: 0;
+  z-index: 30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.3rem;
+  display: none;
+}
+
+.speak-page h1 {
+  color: white;
+}
+
+#voice {
+  margin-top: 1.8rem;
+  border-radius: 50%;
+}
