@@ -297,3 +297,89 @@ main {
   margin-top: 1.8rem;
   border-radius: 50%;
 }
+
+
+@media screen and (max-width:600px) and (min-width:0px){
+  .logo h1 {
+    top:0%;
+  }
+
+  .select-box {
+    width: 100%;
+    height: 20%;
+    color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .nav-bar {
+    height: 6rem;
+    width: 100%;
+    position: relative;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+  }
+
+  .chat-image {
+    cursor: pointer;
+    width: 60px;
+    right: -50px;
+    top: 9px;
+    position: relative;
+
+  }
+
+  
+.main-title {
+  color: rgba(255, 255, 255, 0.616);
+  font-size: 10vw;
+  align-items: center;
+  position: relative;
+  top: 12%;
+  left: 10%;
+  padding: 20px;
+}
+
+.hero-title {
+  color: rgba(255, 255, 255, 0.519);
+  font-size: 10vw;
+  align-items: center;
+  position: relative;
+  top: 11%;
+  left: 15%;
+  padding: 10px;
+}
+
+.chat-box {
+  position: relative;
+  background-color: #ffffff87;
+  width: 100%;
+  height: 70%;
+  float: right;
+  top: 25%;
+  right: 5%;
+  bottom: 5%;
+  backdrop-filter: blur(5px);
+  border-radius: 1.3rem;
+  padding: 20px;
+  transform: translateX(1000px);
+  transition: all 0.5s;
+  z-index: 30;
+}
+
+.active-chat-box {
+  transform: translateX(-150px);
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(bg-small.jpg);
+  
+} 
+}
+  
