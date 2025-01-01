@@ -52,7 +52,7 @@ _Add screenshots or gifs to showcase the features of RV GymAssist._
 ---
 
 ## Live Demo :
-[Live Demo](rv-gym-assist.vercel.app)
+[Live Demo](https.//rv-gym-assist.vercel.app)
 
 ---
 
