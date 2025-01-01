@@ -4,7 +4,7 @@
 
 ---
 
-## Features
+## Features :
 
 - **AI-Powered Exercise Recommendations:** Receive tailored exercises for specific muscle groups.
 - **Virtual Assistant:** Interact with an intelligent assistant for personalized fitness guidance.
@@ -14,7 +14,7 @@
 
 ---
 
-## Technologies Used
+## Technologies Used :
 
 - **HTML:** For the structure and layout of the web pages.
 - **CSS:** For styling and ensuring responsiveness.
@@ -22,7 +22,7 @@
 
 ---
 
-## Installation
+## Installation :
 
 1. Clone this repository:
    ```bash
@@ -36,7 +36,7 @@
 
 ---
 
-## Screenshots
+## Screenshots :
 
 ![image](https://github.com/user-attachments/assets/b5072e58-b46c-42fe-b969-bfe4b30d540d)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Usage
+## Usage :
 
 1. Open the **RV GymAssist** website in your browser.
 2. Use the virtual assistant to type or select the muscle group you want exercises for.
@@ -60,7 +60,7 @@
 
 ---
 
-## Contributing
+## Contributing :
 
 Contributions are welcome!  
 If you'd like to improve RV GymAssist, follow these steps:
@@ -82,7 +82,7 @@ If you'd like to improve RV GymAssist, follow these steps:
 
 ---
 
-## Contact
+## Contact :
 
 Created by **Raviranjan**.  
 Feel free to reach out at [webravi11@gmail.com](mailto:webravi11@gmail.com) for any questions, feedback, or suggestions!
