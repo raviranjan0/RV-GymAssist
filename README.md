@@ -52,9 +52,7 @@ _Add screenshots or gifs to showcase the features of RV GymAssist._
 ---
 
 ## Live Demo :
-
-_Add a live demo link if hosted (e.g., GitHub Pages, Netlify, or Vercel)._  
-[Live Demo](https://your-demo-link.com)
+[Live Demo](rv-gym-assist.vercel.app)
 
 ---
 
