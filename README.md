@@ -22,7 +22,7 @@
 
 ---
 
-## Live Demo :
+
 
 ## Installation :
 
