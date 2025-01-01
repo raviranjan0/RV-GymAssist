@@ -38,7 +38,11 @@
 
 ## Screenshots
 
-_Add screenshots or gifs to showcase the features of RV GymAssist._
+![image](https://github.com/user-attachments/assets/b5072e58-b46c-42fe-b969-bfe4b30d540d)
+
+![image](https://github.com/user-attachments/assets/83310ba8-f046-430b-a2f8-9036bd9edbc0)
+
+
 
 ---
 
