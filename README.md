@@ -58,7 +58,7 @@
 ---
 
 ## Live Demo :
-[Live Demo](https://rv-gym-assist.vercel.app/)
+[Click Here](https://rv-gym-assist.vercel.app/)
 
 ---
 
