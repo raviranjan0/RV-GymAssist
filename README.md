@@ -1,6 +1,6 @@
 # RV GymAssist
 
-**RV GymAssist** is an AI-powered fitness website designed to provide personalized exercise recommendations based on the muscle group you request. The website features a virtual assistant to guide users and enhance their fitness journey. Built with **HTML**, **CSS**, and **JavaScript**, it boasts a modern design and is fully responsive for seamless use across devices. ...
+**RV GymAssist** is an AI-powered fitness website designed to provide personalized exercise recommendations based on the muscle group you request. The website features a virtual assistant to guide users and enhance their fitness journey. Built with **HTML**, **CSS**, and **JavaScript**, it boasts a modern design and is fully responsive for seamless use across devices. ..
 
 ---
 
