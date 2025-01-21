@@ -10,6 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/83310ba8-f046-430b-a2f8-9036bd9edbc0)
 
+---
+
 
 
 
@@ -44,9 +46,6 @@
    cd rv-gymassist
    ```
 3. Open `index.html` in your browser to view the website.
-
----
-
 
 ---
 
