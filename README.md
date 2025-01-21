@@ -4,6 +4,15 @@
 
 ---
 
+## Screenshots :
+
+![image](https://github.com/user-attachments/assets/b5072e58-b46c-42fe-b969-bfe4b30d540d)
+
+![image](https://github.com/user-attachments/assets/83310ba8-f046-430b-a2f8-9036bd9edbc0)
+
+
+
+
 ## Features :
 
 - **AI-Powered Exercise Recommendations:** Receive tailored exercises for specific muscle groups.
@@ -37,13 +46,6 @@
 3. Open `index.html` in your browser to view the website.
 
 ---
-
-## Screenshots :
-
-![image](https://github.com/user-attachments/assets/b5072e58-b46c-42fe-b969-bfe4b30d540d)
-
-![image](https://github.com/user-attachments/assets/83310ba8-f046-430b-a2f8-9036bd9edbc0)
-
 
 
 ---
