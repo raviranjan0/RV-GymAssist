@@ -12,9 +12,6 @@
 
 ---
 
-
-
-
 ## Features :
 
 - **AI-Powered Exercise Recommendations:** Receive tailored exercises for specific muscle groups.
@@ -32,8 +29,6 @@
 - **JavaScript:** For interactivity, AI logic, and virtual assistant integration.
 
 ---
-
-
 
 ## Installation :
 
