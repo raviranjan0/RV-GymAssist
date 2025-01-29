@@ -12,6 +12,13 @@
 
 ---
 
+
+## Live Demo :
+[Click Here👈](https://rv-gym-assist.vercel.app/)
+
+---
+
+
 ## Features :
 
 - **AI-Powered Exercise Recommendations:** Receive tailored exercises for specific muscle groups.
@@ -52,12 +59,6 @@
 4. Interact with the chatbot for additional fitness tips, plans, and guidance.
 
 ---
-
-## Live Demo :
-[Click Here👈](https://rv-gym-assist.vercel.app/)
-
----
-
 ## Contributing :
 
 Contributions are welcome!  
