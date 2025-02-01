@@ -19,7 +19,7 @@
 ---
 
 
-## Features :
+## Features :  
 
 - **AI-Powered Exercise Recommendations:** Receive tailored exercises for specific muscle groups.
 - **Virtual Assistant:** Interact with an intelligent assistant for personalized fitness guidance.
